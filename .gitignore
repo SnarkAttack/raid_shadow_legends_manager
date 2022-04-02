@@ -1,0 +1,10 @@
+env/*
+data/
+.vscode/
+logs/
+output/
+artifacts.json
+champions.json
+*.pyc
+*.egg-info
+*.db
